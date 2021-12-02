@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  background: black;
+  color: orangered;
+}
+
+.fontTitle {
+  font-family: "M PLUS 1 Code", sans-serif;
+  color: orangered;
+  text-transform: uppercase;
+}
+
+textError {
+  font-size: 1rem;
+}

@@ -1,0 +1,26 @@
+input {
+  text-align: center;
+  border: solid 1px orangered;
+}
+
+button {
+  width: 100%;
+  background-color: orangered;
+  border: solid 1px orangered;
+  border-radius: 15px;
+}
+
+::placeholder {
+  color: orangered;
+  opacity: 0.5;
+}
+
+.card {
+  background-color: orangered;
+}
+
+.card-body {
+  background-color: black;
+  border: solid 1px orangered;
+  color: orangered;
+}
